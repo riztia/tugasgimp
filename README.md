@@ -1,0 +1,2 @@
+# tugasgimp
+TUGAS GIMP (UTS)
